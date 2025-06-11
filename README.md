@@ -1,4 +1,4 @@
-# Analyzer
+# DATA ARBUTUS
 A. KAS DAN SETARA KAS
 
 Masuk terlebih dahulu ke akun utama untuk melaksanakan Test of Control berupa Integrity Test, yang mencakup tiga aspek: Verify, Duplicate, dan Gap:
